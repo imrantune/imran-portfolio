@@ -1,4 +1,4 @@
-# Muhammad Imran Ul Hassan
+# Imran Hassan
 
 **Web Developer | SaaS & OTT Specialist | Laravel Expert**
 
