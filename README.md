@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a full-stack web developer with over 10 years of experience, specializing in **PHP, Laravel, video platforms, and SaaS solutions**. I’ve built OTT platforms like **Vodlix** and am passionate about scalable, cloud-based architectures.
+I’m a full-stack web developer with over 10 years of experience, specializing in **PHP, Laravel, video platforms, and SaaS solutions**. I’ve built OTT platforms like **Vodlix**, contributed to open-source video platforms like **ClipBucket**, and created scalable encoding and content delivery systems.
 
 ---
 
@@ -22,17 +22,22 @@ I’m a full-stack web developer with over 10 years of experience, specializing 
 
 ## 💼 Projects
 
-- **Vodlix** – Custom VOD/OTT solution (Full-stack PHP)  
-- **Tune.pk** – Video Uploading & Encoding Management
+- **streamit** – SaaS OTT platform built with Laravel Microservices, multi-tenant support  
+- **Vodlix** – Custom VOD/OTT solution, fully built in PHP with advanced media features  
+- **Tune.pk** – Video Uploading & Encoding System, integrated with FFmpeg  
+- **ClipBucket (Contributions)** – Open-source video platform; bug fixes, encoder enhancement  
+- **Laravel Encoding Queue** – Laravel-based background encoding system with FFmpeg, Redis queues, and cloud storage  
+- **Laravel Video Uploader** – Admin panel for uploading, encoding, and publishing videos (with role-based permissions and CDN integration)
 
 ---
 
 ## 📬 Contact
 
-- **Email:** imran@example.com  
-- **Phone:** +92-XXX-XXXXXXX  
-- **LinkedIn:** [linkedin.com/in/imrantune](https://linkedin.com/in/imrantune)
+- **Email:** imran@streamit.com  
+- **Phone:** +92-300-5400133  
+- **LinkedIn:** [linkedin.com/in/imranulhassan](https://linkedin.com/in/imranulhassan)
 
 ---
 
 © 2025 Muhammad Imran Ul Hassan
+
