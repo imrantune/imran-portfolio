@@ -35,7 +35,7 @@ I’m a full-stack web developer with over 10 years of experience, specializing 
 
 - **Email:** imran@streamit.com  
 - **Phone:** +92-300-5400133  
-- **LinkedIn:** [linkedin.com/in/imranulhassan](https://linkedin.com/in/imranulhassan)
+- **LinkedIn:** [linkedin.com/in/imranulhassan](https://linkedin.com/in/imrantune)
 
 ---
 
